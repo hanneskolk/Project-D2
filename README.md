@@ -6,7 +6,7 @@ This repository is fairly simple. The folder "data" contains our initial dataset
 
 To replicate the analysis conducted in this project, follow these steps:
   1.  Clone the Repository: Download or clone the repository to your local machine.
-  2.  Install Dependencies: Ensure you have Python installed along with the required libraries: pandas and matplotlib. You can install them using pip: pip install pandas matplotlib
+  2.  Install Dependencies: Ensure you have Python installed along with the required libraries: pandas, seaborn and matplotlib. You can install them using pip: pip install pandas seaborn matplotlib
   3.  Navigate to the Appropriate Directory: After cloning the repository, navigate to the plots folder, and then to the code subfolder.
   4.  Run the Python Scripts: Execute any of the Python files in the code folder using a Python environment or kernel. Each script generates a specific plot as shown in the project poster.
 
